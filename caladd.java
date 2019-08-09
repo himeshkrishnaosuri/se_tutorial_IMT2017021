@@ -23,7 +23,7 @@ public class caladd{
                     System.out.print("Enter two numbers: ");
                     a = scan.nextFloat();
                     b = scan.nextFloat();
-                    res = a * b;
+                    res = a * b * 1;
                     System.out.print("Result = " + res);
                     break;
                 
